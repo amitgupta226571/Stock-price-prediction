@@ -154,17 +154,4 @@ This project is licensed under the MIT License.
 
 * LinkedIn: [https://www.linkedin.com/in/amit-gupta-559418315/](https://www.linkedin.com/in/amit-gupta-559418315/)
 
----
 
-# 🚀 Pro Tip (IMPORTANT)
-
-Before uploading to GitHub:
-
-* Add **screenshots (very important 🔥)**
-* Add **live demo link (if possible)**
-* Replace `yourusername` with your GitHub username
-
-
-
-Just say:
-👉 “upgrade this project” 🚀
